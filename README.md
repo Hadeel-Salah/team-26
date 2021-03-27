@@ -12,10 +12,14 @@ Comments added to code for clarity
 
 
 name of the project : myability
+
 it's going to be a website 
 nathaneal and toba will do the coding 
 diya will do the wire frame and the design 
+
+
 the number of the pages : 1 
+
 the homepage will contain :
 1) navigation bar at top 
 -logo left aligned
