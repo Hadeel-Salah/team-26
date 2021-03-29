@@ -19,6 +19,8 @@ NGCN Team-26's website repository
 
 **Number of the pages:** 1 
 
+<br><br>
+
 The homepage will contain :
 1) Navigation bar at top 
 - logo left aligned
