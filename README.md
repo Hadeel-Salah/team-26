@@ -7,8 +7,10 @@ Comments added to code for clarity
 ## Info
 Name of the project: MyAbility
 - It's going to be a website 
-nathaneal and toba will do the coding 
-diya will do the wire frame and the design 
+
+Roles:
+- Nathaneal and Toba will do the coding 
+- Diya will do the wire frame and the design 
 
 ### To-do List
 - [ ] Example checkbox
