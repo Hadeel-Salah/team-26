@@ -1,9 +1,9 @@
 # NGCN Team-26
 
 NGCN Team-26's website repository
-```diff
-> + [Website Link](https://hadeelsala7.github.io/team-26/)
-```
+
+>  [Website Link](https://hadeelsala7.github.io/team-26/)
+
 <br><br> <!-- Just line breaks -->
 
 ## Project Information 📜
@@ -23,6 +23,9 @@ NGCN Team-26's website repository
 **Number of the pages:** 1 
 
 <br><br> <!-- Just line breaks -->
+
+
+## Plan 
 
 **The homepage will contain:**
 
