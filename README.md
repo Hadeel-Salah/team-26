@@ -15,7 +15,9 @@ NGCN Team-26's website repository
 - Nathaneal and Toba will do the coding 
 - Diya will do the wireframe and the design 
 
-Number of the pages: 1 
+<br>
+
+**Number of the pages:** 1 
 
 The homepage will contain :
 1) Navigation bar at top 
