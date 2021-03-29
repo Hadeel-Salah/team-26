@@ -5,9 +5,8 @@ NGCN Team-26's website repository
 
 Comments added to code for clarity
 ## Info
-Name of the project : MyAbility
-
-it's going to be a website 
+Name of the project: MyAbility
+- It's going to be a website 
 nathaneal and toba will do the coding 
 diya will do the wire frame and the design 
 
