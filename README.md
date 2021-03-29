@@ -13,7 +13,7 @@ Roles:
 - Nathaneal and Toba will do the coding 
 - Diya will do the wireframe and the design 
 
-the number of the pages : 1 
+Number of the pages: 1 
 
 the homepage will contain :
 1) navigation bar at top 
@@ -28,7 +28,7 @@ image or large logo on right (maybe)
 4) contact section (maybe) 
 Nathaneal and Toba's skills:
 
-using : bootstrap
+Using: HTML, CSS, JavaScript, Bootstrap
 
 Comments added to code for clarity
 
