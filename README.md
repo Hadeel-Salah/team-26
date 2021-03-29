@@ -25,7 +25,7 @@ NGCN Team-26's website repository
 <br><br> <!-- Just line breaks -->
 
 
-## Plan 
+## Plan ✏️
 
 **The homepage will contain:**
 
