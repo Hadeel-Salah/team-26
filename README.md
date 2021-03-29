@@ -17,8 +17,9 @@ Number of the pages: 1
 
 the homepage will contain :
 1) navigation bar at top 
--logo left aligned
--page links right aligned
+- logo left aligned
+- page links right aligned
+
 2)hero section 
 -header describing purpose in 1 sentence 
 -small description below header
