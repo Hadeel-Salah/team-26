@@ -13,18 +13,6 @@ Roles:
 - Nathaneal and Toba will do the coding 
 - Diya will do the wireframe and the design 
 
-
-Comments added to code for clarity
-
-### To-do List
-- [ ] Example checkbox
-- [x] Example crossed out checkbox
-- [ ] Favicons
-
-
-
-
-
 the number of the pages : 1 
 
 the homepage will contain :
@@ -41,3 +29,16 @@ image or large logo on right (maybe)
 Nathaneal and Toba's skills:
 
 using : bootstrap
+
+Comments added to code for clarity
+
+### To-do List
+- [ ] Example checkbox
+- [x] Example crossed out checkbox
+- [ ] Favicons
+
+
+
+
+
+
