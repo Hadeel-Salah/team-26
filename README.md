@@ -4,7 +4,7 @@ NGCN Team-26's website repository
 > [Website Link](https://hadeelsala7.github.io/team-26/)
 
 
-## Information
+## Project Information
 Name of the project: MyAbility
 - It's going to be a website 
 
