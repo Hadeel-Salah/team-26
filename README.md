@@ -45,10 +45,10 @@ NGCN Team-26's website repository
 
 <br><br> <!-- Just line breaks -->
 
+<!-- (Not needed?)
 Nathaneal and Toba's skills:
 - Web development
-
-
+-->
 
 ### To-do List
 - [ ] Example checkbox
