@@ -6,10 +6,10 @@ NGCN Team-26's website repository
 <br><br> <!-- Just line breaks -->
 
 ## Project Information
-Name of the project: MyAbility
+**Name of the project:** MyAbility
 - It's going to be a website 
 
-Roles:
+**Roles:**
 - Nathaneal and Toba will do the coding 
 - Diya will do the wireframe and the design 
 
