@@ -10,10 +10,11 @@ Name of the project: MyAbility
 
 Roles:
 - Nathaneal and Toba will do the coding 
-- Diya will do the wire frame and the design 
+- Diya will do the wireframe and the design 
 
 
 Comments added to code for clarity
+
 ### To-do List
 - [ ] Example checkbox
 - [x] Example crossed out checkbox
