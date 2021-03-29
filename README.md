@@ -20,10 +20,7 @@ NGCN Team-26's website repository
 
 <br>
 
-**Number of the pages:** 
-```diff +
-1 
-```
+**Number of the pages:** 1
 
 <br><br> <!-- Just line breaks -->
 
