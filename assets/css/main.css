@@ -33,3 +33,6 @@ body {
 }
 
 /** Navigation bar **/
+.nav-menu-top {
+  padding-top: 25px !important;
+}
