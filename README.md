@@ -9,6 +9,7 @@ NGCN Team-26's website repository
 **Name of the project:** MyAbility
 - It's going to be a website 
 - Using: HTML, CSS, JavaScript, Bootstrap
+- Comments added to code for clarity 
 
 <br>
 
@@ -42,7 +43,7 @@ The homepage will contain :
 Nathaneal and Toba's skills:
 - Web development
 
-Comments added to code for clarity
+
 
 ### To-do List
 - [ ] Example checkbox
