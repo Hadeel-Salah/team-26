@@ -4,6 +4,12 @@ NGCN Team-26's website repository
 > [Website Link (Live)](https://hadeelsala7.github.io/team-26/)
 
 Comments added to code for clarity
+## Info
+Name of the project : MyAbility
+
+it's going to be a website 
+nathaneal and toba will do the coding 
+diya will do the wire frame and the design 
 
 ### To-do List
 - [ ] Example checkbox
@@ -11,11 +17,7 @@ Comments added to code for clarity
 - [ ] Favicons
 
 
-Name of the project : MyAbility
 
-it's going to be a website 
-nathaneal and toba will do the coding 
-diya will do the wire frame and the design 
 
 
 the number of the pages : 1 
