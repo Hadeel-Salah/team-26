@@ -34,9 +34,9 @@ The homepage will contain :
 - button to services page 
 - image or large logo on right (maybe)
 
-3) brief descriptions of services offered 
+3) Brief descriptions of services offered 
 
-4) contact section (maybe) 
+4) Contact section (maybe) 
 
 <br><br> <!-- Just line breaks -->
 
