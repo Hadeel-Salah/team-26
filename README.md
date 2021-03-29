@@ -1,10 +1,10 @@
 # NGCN Team-26
 
 NGCN Team-26's website repository
-> [Website Link (Live)](https://hadeelsala7.github.io/team-26/)
+> [Website Link](https://hadeelsala7.github.io/team-26/)
 
-Comments added to code for clarity
-## Info
+
+## Information
 Name of the project: MyAbility
 - It's going to be a website 
 
@@ -12,6 +12,8 @@ Roles:
 - Nathaneal and Toba will do the coding 
 - Diya will do the wire frame and the design 
 
+
+Comments added to code for clarity
 ### To-do List
 - [ ] Example checkbox
 - [x] Example crossed out checkbox
