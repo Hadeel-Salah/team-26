@@ -24,7 +24,8 @@ NGCN Team-26's website repository
 <br><br> <!-- Just line breaks -->
 
 **The homepage will contain:**
-1.) Navigation bar at top 
+
+1) Navigation bar at top 
    * logo left aligned
    * page links right aligned
 
