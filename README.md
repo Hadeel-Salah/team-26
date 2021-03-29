@@ -29,10 +29,10 @@ NGCN Team-26's website repository
   * page links right aligned
 
 2) Hero section 
-- header describing purpose in 1 sentence 
-- small description below header
-- button to services page 
-- image or large logo on right (maybe)
+ - header describing purpose in 1 sentence 
+ - small description below header
+ - button to services page 
+ - image or large logo on right (maybe)
 
 3) Brief descriptions of services offered 
 
