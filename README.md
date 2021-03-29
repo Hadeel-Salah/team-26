@@ -27,6 +27,7 @@ The homepage will contain :
 - image or large logo on right (maybe)
 
 3) brief descriptions of services offered 
+
 4) contact section (maybe) 
 
 Nathaneal and Toba's skills:
