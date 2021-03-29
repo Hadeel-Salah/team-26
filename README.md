@@ -2,9 +2,11 @@
 
 NGCN Team-26's website repository
 
->  [Website Link](https://hadeelsala7.github.io/team-26/)
+> [Website Link](https://hadeelsala7.github.io/team-26/)
 
->  [To-do Link](https://github.com/hadeelsala7/team-26/blob/main/To-do.md)
+> [To-do Link](https://github.com/hadeelsala7/team-26/blob/main/To-do.md)
+
+> [List of ideas](https://github.com/hadeelsala7/team-26/blob/main/Ideas.md)
 
 <br><br> <!-- Just line breaks -->
 
