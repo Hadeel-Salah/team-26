@@ -24,7 +24,6 @@ NGCN Team-26's website repository
 
 <br><br> <!-- Just line breaks -->
 
-
 ## Plan ✏️
 
 **The homepage will contain:**
@@ -49,14 +48,3 @@ NGCN Team-26's website repository
 Nathaneal and Toba's skills:
 - Web development
 -->
-
-### To-do List
-- [ ] Example checkbox
-- [x] Example crossed out checkbox
-- [ ] Favicons
-
-
-
-
-
-
