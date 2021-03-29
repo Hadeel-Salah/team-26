@@ -8,6 +8,7 @@ NGCN Team-26's website repository
 ## Project Information
 **Name of the project:** MyAbility
 - It's going to be a website 
+- Using: HTML, CSS, JavaScript, Bootstrap
 
 <br>
 
@@ -19,7 +20,7 @@ NGCN Team-26's website repository
 
 **Number of the pages:** 1 
 
-<br><br>
+<br><br> <!-- Just line breaks -->
 
 The homepage will contain :
 1) Navigation bar at top 
@@ -36,10 +37,10 @@ The homepage will contain :
 
 4) contact section (maybe) 
 
-Nathaneal and Toba's skills:
--Web development
+<br><br> <!-- Just line breaks -->
 
-Using: HTML, CSS, JavaScript, Bootstrap
+Nathaneal and Toba's skills:
+- Web development
 
 Comments added to code for clarity
 
