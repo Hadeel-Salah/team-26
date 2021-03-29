@@ -11,7 +11,7 @@ Comments added to code for clarity
 - [ ] Favicons
 
 
-name of the project : myability
+Name of the project : MyAbility
 
 it's going to be a website 
 nathaneal and toba will do the coding 
