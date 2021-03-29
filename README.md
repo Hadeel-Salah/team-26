@@ -15,19 +15,22 @@ Roles:
 
 Number of the pages: 1 
 
-the homepage will contain :
-1) navigation bar at top 
+The homepage will contain :
+1) Navigation bar at top 
 - logo left aligned
 - page links right aligned
 
-2)hero section 
--header describing purpose in 1 sentence 
--small description below header
--button to services page 
-image or large logo on right (maybe)
+2) Hero section 
+- header describing purpose in 1 sentence 
+- small description below header
+- button to services page 
+- image or large logo on right (maybe)
+
 3) brief descriptions of services offered 
 4) contact section (maybe) 
+
 Nathaneal and Toba's skills:
+-Web development
 
 Using: HTML, CSS, JavaScript, Bootstrap
 
