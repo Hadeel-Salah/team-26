@@ -25,11 +25,11 @@ NGCN Team-26's website repository
 
 **The homepage will contain:**
 
-1.) Navigation bar at top 
+1) Navigation bar at top 
     * logo left aligned
     * page links right aligned
 
-2.) Hero section 
+2) Hero section 
    * header describing purpose in 1 sentence 
    * small description below header
    * button to services page 
