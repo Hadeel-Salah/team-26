@@ -23,10 +23,10 @@ NGCN Team-26's website repository
 
 <br><br> <!-- Just line breaks -->
 
-The homepage will contain :
-1) Navigation bar at top 
-- logo left aligned
-- page links right aligned
+**The homepage will contain:**
+* Navigation bar at top 
+  * logo left aligned
+  * page links right aligned
 
 2) Hero section 
 - header describing purpose in 1 sentence 
