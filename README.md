@@ -5,7 +5,7 @@ NGCN Team-26's website repository
 
 <br><br> <!-- Just line breaks -->
 
-## Project Information
+## Project Information 📜
 **Name of the project:** MyAbility
 - It's going to be a website 
 - Using: HTML, CSS, JavaScript, Bootstrap
