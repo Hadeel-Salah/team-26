@@ -1,15 +1,20 @@
 /*** General configurations ***/
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
 html {
   overflow-y: auto !important;
   overflow-x: hidden !important;
   scroll-behavior: smooth;
   box-sizing: border-box;
-}
-
-* {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  box-sizing: inherit;
 }
 
 body {
@@ -23,7 +28,7 @@ body {
 }
 
 ::-moz-selection {
-  background: #ffe987 !important; 
+  background: #ffe987 !important;
   color: #212529 !important;
 }
 
