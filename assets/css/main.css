@@ -20,6 +20,7 @@ html {
 body {
   overflow-x: hidden !important;
   margin: 0;
+  font-family: 'Inter', sans-serif;
 }
 
 ::selection {
@@ -35,4 +36,8 @@ body {
 /** Navigation bar **/
 .nav-menu-top {
   padding-top: 25px !important;
+}
+
+.nav-link {
+  font-weight: 600;
 }
