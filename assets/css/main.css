@@ -60,5 +60,11 @@ body {
   position: relative;
   transition: 0.5s ease;
   cursor: pointer;
-  padding-left: 1rem !important;
+  padding-left: 2.5rem !important;
+}
+
+@media (max-width: 992px) {
+  .nav-item .nav-link {
+    padding-left: 1rem !important;
+  }
 }
