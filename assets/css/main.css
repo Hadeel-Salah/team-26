@@ -42,13 +42,23 @@ body {
   outline: none;
 }
 
-.nav-link {
-  font-weight: 600;
-}
-
 .navbar-light .nav-item .nav-link:active,
 .navbar-light .nav-item .nav-link:focus,
 .navbar-light .nav-item.active .nav-link,
 .navbar-light .nav-item:hover .nav-link {
   color: #000;
+}
+
+.nav-link {
+  font-weight: 600;
+}
+
+.nav-item .nav-link {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  background-color: transparent;
+  position: relative;
+  transition: 0.5s ease;
+  cursor: pointer;
+  padding-left: 1rem !important;
 }
