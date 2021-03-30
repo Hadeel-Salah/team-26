@@ -37,7 +37,7 @@ body {
 
 /** Navigation bar **/
 .nav-menu-top {
-  padding-top: 25px !important;
+  margin-top: 1.25rem !important;
 }
 
 .navbar-toggler:focus {
