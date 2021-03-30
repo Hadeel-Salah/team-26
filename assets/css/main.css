@@ -38,6 +38,17 @@ body {
   padding-top: 25px !important;
 }
 
+.navbar-toggler:focus {
+  outline: none;
+}
+
 .nav-link {
   font-weight: 600;
+}
+
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item:hover .nav-link {
+  color: #000;
 }
