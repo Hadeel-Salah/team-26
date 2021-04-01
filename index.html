@@ -78,7 +78,7 @@
             <!-- That blue smaller text above main header -->
             <h1 class="minihead">
               
-              Very short sentence about what MyAbility is &mdash; <!-- Just replace text, dont mind that mdash code -->
+              <span id="typed2"></span> <!-- Very short sentence about what MyAbility is -->
             
             </h1>
             
@@ -132,10 +132,19 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js"></script>
     <script>
       AOS.init({
         once: true,
       });
+      
+      var typed2 = new Typed("#typed2", {
+          strings: ["Lorem ipsum dolor sit amet &mdash;"],
+          startDelay: 4000,
+          typeSpeed: 45,
+          cursorChar: '‎',
+          loop: false,
+        });
     </script>
   </body>
 </html>
