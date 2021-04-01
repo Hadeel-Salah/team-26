@@ -70,12 +70,12 @@ nav {
 .navtitle {
   font-family: 'Montserrat', sans-serif;
   letter-spacing: .9px;
-  font-size: 1.5rem;
+  font-size: 1.5rem !important;
 }
 
 .nav-item .nav-link {
   font-weight: 600;
-  font-size: 1.125rem;
+  font-size: 1.125rem !important;
   background-color: transparent;
   position: relative;
   transition: 0.5s ease;
