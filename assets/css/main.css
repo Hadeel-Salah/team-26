@@ -155,6 +155,12 @@ nav {
   }
 }
 
+@media (max-width: 1920px) {
+  .zing {
+    margin-left: -5vw;
+  }
+}
+
 .minihead {
   font-family: "Karla", sans-serif;
   font-weight: 400;
