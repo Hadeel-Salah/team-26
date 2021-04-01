@@ -155,6 +155,12 @@ nav {
   }
 }
 
+@media (max-width: 1518px) {
+  .zing {
+    margin-left: -3vw;
+  }
+}
+
 @media (max-width: 1400px) {
   .zing {
     margin-left: -5vw;
