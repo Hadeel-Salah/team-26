@@ -58,7 +58,7 @@ nav {
 .navbar-light .nav-item .nav-link:focus,
 .navbar-light .nav-item.active .nav-link,
 .navbar-light .nav-item:hover .nav-link {
-  color: #000;
+  color: #212529;
 }
 
 .fa-smile {
@@ -135,7 +135,7 @@ nav {
   position: absolute;
   top: 0;
   z-index: 150;
-  color: black;
+  color: #212529;
   padding-top: 12rem;
 
 }
@@ -171,7 +171,7 @@ hr {
 
 .desclink {
   padding: 10px;
-  border: 3px solid black;
+  border: 3px solid #212529;
   background: #3755be;
   transition: 0.3s;
   color: white;
@@ -179,7 +179,7 @@ hr {
 }
 
 .desclink:hover {
-  border: 3px solid black;
+  border: 3px solid #212529;
   background: #5975d9;
   text-decoration: none !important;
   color: white !important;
