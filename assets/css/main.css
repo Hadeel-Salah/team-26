@@ -20,7 +20,7 @@ html {
 body {
   overflow-x: hidden !important;
   margin: 0;
-  font-family: 'Karla', sans-serif !important;
+  font-family: "Karla", sans-serif !important;
 }
 
 @media (max-width: 768px) {
@@ -64,12 +64,12 @@ nav {
 .fa-smile {
   color: #3755be;
   font-size: 1.5rem;
-  padding-right: .2rem;
+  padding-right: 0.2rem;
 }
 
 .navtitle {
-  font-family: 'Montserrat', sans-serif;
-  letter-spacing: .9px;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.9px;
   font-size: 1.5rem !important;
 }
 
@@ -93,7 +93,6 @@ nav {
   }
 }
 
-
 /** Kewl sliding background **/
 .homeleft {
   z-index: -1000;
@@ -104,25 +103,21 @@ nav {
   overflow-x: hidden !important;
   left: -65%;
   width: 60%;
-  height: 140vh; 
+  height: 140vh;
   background-color: #f2f4fa;
   animation: slide-perm 1.85s forwards ease;
-  animation-delay: .6s; 
+  animation-delay: 0.6s;
 }
 
-@keyframes slide-perm{
+@keyframes slide-perm {
   0 {
-    left:-100%;
+    left: -100%;
   }
-  
-  25% {
-    left -100%;
-  }
-  
+
   75% {
     left: 0;
   }
-  
+
   100% {
     left: 0;
   }
@@ -137,11 +132,31 @@ nav {
   z-index: 150;
   color: #212529;
   padding-top: 12rem;
+}
 
+@media (max-width: 576px) {
+  .texting {
+    margin-left: 5vw;
+    margin-right: 5vw !important;
+  }
+  .homeleft {
+    height: 165vh;
+  }
+}
+
+@media (max-width: 380px) {
+  .texting {
+    margin-left: 1vw;
+    margin-right: 1vw !important;
+  }
+
+  .homeleft {
+    height: 165vh;
+  }
 }
 
 .minihead {
-  font-family: 'Karla', sans-serif;
+  font-family: "Karla", sans-serif;
   font-weight: 400;
   font-size: 1.25rem;
   color: #3755be;
@@ -149,7 +164,7 @@ nav {
 }
 
 .heroheader {
-  font-family: 'Karla', sans-serif;
+  font-family: "Karla", sans-serif;
   font-weight: 700;
   width: auto;
 }
@@ -160,13 +175,13 @@ nav {
 }
 
 hr {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 2.5px;
-    max-width: 150px;
-    border-color: #b5b5b5;
-    border-width: 6px;  
-    visibility: hidden;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 2.5px;
+  max-width: 150px;
+  border-color: #b5b5b5;
+  border-width: 6px;
+  visibility: hidden;
 }
 
 .desclink {
