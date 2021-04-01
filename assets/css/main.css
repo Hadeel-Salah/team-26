@@ -25,7 +25,7 @@ body {
 
 @media (max-width: 768px) {
   body {
-    background-color: #f2f4fa;
+    background-color: #f2f4fa !important;
   }
 }
 
