@@ -97,6 +97,7 @@ nav {
   top: -10 !important;
   position: relative;
   overflow: hidden;
+  overflow-x: hidden !important;
   left: -65%;
   width: 60%;
   height: 140vh; 
