@@ -20,7 +20,13 @@ html {
 body {
   overflow-x: hidden !important;
   margin: 0;
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Karla', sans-serif !important;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-color: #f2f4fa;
+  }
 }
 
 ::selection {
@@ -33,9 +39,12 @@ body {
   color: #212529 !important;
 }
 
-
-
 /** Navigation bar **/
+nav {
+  position: relative;
+  z-index: 1000;
+}
+
 .nav-menu-top {
   margin-top: 1.25rem !important;
 }
@@ -51,9 +60,21 @@ body {
   color: #000;
 }
 
+.fa-smile {
+  color: #3755be;
+  font-size: 1.5rem;
+  padding-right: .2rem;
+}
+
+.navtitle {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: .9px;
+  font-size: 1.5rem;
+}
+
 .nav-item .nav-link {
-  font-family: "Inter", sans-serif;
   font-weight: 600;
+  font-size: 1.125rem;
   background-color: transparent;
   position: relative;
   transition: 0.5s ease;
@@ -66,3 +87,100 @@ body {
     padding-left: 1rem !important;
   }
 }
+
+
+/** Kewl sliding background **/
+.homeleft {
+  z-index: -1000;
+  margin-top: -20rem;
+  top: -10 !important;
+  position: relative;
+  overflow: hidden;
+  left: -65%;
+  width: 60%;
+  height: 140vh; 
+  background-color: #f2f4fa;
+  animation: slide-perm 1.85s forwards ease;
+  animation-delay: .6s; 
+}
+
+@keyframes slide-perm{
+  0 {
+    left:-100%;
+  }
+  
+  25% {
+    left -100%;
+  }
+  
+  75% {
+    left: 0;
+  }
+  
+  100% {
+    left: 0;
+  }
+}
+
+/** Hero Text **/
+.texting {
+  margin-left: 15vw;
+  margin-right: 15vw !important;
+  position: absolute;
+  top: 0;
+  z-index: 150;
+  color: black;
+  padding-top: 12rem;
+
+}
+
+.minihead {
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+  font-size: 1.25rem;
+  color: #3755be;
+  margin-bottom: 25px;
+}
+
+.heroheader {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+  width: auto;
+}
+
+.herocontent {
+  font-weight: 400;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 2.5px;
+    max-width: 150px;
+    border-color: #b5b5b5;
+    border-width: 6px;  
+    visibility: hidden;
+}
+
+.desclink {
+  padding: 10px;
+  border: 3px solid black;
+  background: #3755be;
+  transition: 0.3s;
+  color: white;
+  font-weight: 600;
+}
+
+.desclink:hover {
+  border: 3px solid black;
+  background: #5975d9;
+  text-decoration: none !important;
+  color: white !important;
+}
+
+/** Soon 
+.features-section {
+  position: relative;
+  background: gray !important;
+  padding-bottom: 50rem;
+} **/
