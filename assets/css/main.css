@@ -30,13 +30,13 @@ body {
 }
 
 ::selection {
-  background: #ffe987 !important;
-  color: #212529 !important;
+  background: #3755be !important;
+  color: #fff !important;
 }
 
 ::-moz-selection {
-  background: #ffe987 !important;
-  color: #212529 !important;
+  background: #3755be !important;
+  color: #fff !important;
 }
 
 /** Navigation bar **/
