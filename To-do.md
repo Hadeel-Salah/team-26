@@ -6,7 +6,7 @@ General:
 - [ ] Replace image placeholder on home page (stock image maybe?)
 
 
-
+<br><br><br>
 
 Future Fixes:
 - [ ] Likely going to remove/reduce homepage animation(s) for less motion (TBD)
