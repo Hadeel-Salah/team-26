@@ -4,4 +4,4 @@
 - [ ] Decide on what Google Fonts to use
 - [ ] Decide on overall "theme" of website (e.g playful, inspiring, formal)
 - [ ] Decide on main colors to use
-- [ ] Will make mobile responsive soon -Toba
+- [ ] Likely going to remove/reduce a homepage animation for less motion
