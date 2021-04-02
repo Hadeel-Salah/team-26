@@ -1,8 +1,14 @@
 ### To-do List
 
+General:
 - [ ] Add favicon
+- [ ] Add meta descriptions
+- [ ] Replace image placeholder on home page (stock image maybe?)
 
 
+
+
+Future Fixes:
 - [ ] Likely going to remove/reduce homepage animation(s) for less motion (TBD)
 
 
