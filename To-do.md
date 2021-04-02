@@ -1,6 +1,6 @@
 ### To-do List
 
-- [ ] Likely going to remove/reduce a homepage animation for less motion (TBD)
+- [ ] Likely going to remove/reduce homepage animation(s) for less motion (TBD)
 
 
 - [ ] Replace Animate-on-Scroll animations with raw CSS animations that run automatically?
