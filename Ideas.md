@@ -1,2 +1,2 @@
 ### Active list of ideas for our website
-- d
+- Maybe add "scribbles" motion lines for homepage image, to keep with playful theme
