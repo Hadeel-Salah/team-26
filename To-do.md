@@ -1,5 +1,8 @@
 ### To-do List
 
+- [ ] Add favicon
+
+
 - [ ] Likely going to remove/reduce homepage animation(s) for less motion (TBD)
 
 
