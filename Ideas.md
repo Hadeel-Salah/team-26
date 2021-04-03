@@ -1,2 +1,3 @@
 ### Active list of ideas for our website
 - Maybe add "scribbles" motion lines for homepage image, to keep with playful theme
+> Or add to "Get Started" button on hover. 
