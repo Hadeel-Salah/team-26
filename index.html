@@ -24,8 +24,8 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet" />
 
     <!-- Favicons (aka Tab Icons) -->
     <link rel="icon" type="image/png" href="/assets/favicons/logo.png" sizes="16x16" />
@@ -74,46 +74,33 @@
       <div class="container px-5 text-md-left">
         <div class="row justify-content-between">
           <div class="col-lg-8 col-md-12 my-3 zing">
-            
             <!-- That blue smaller text above main header -->
             <h1 class="minihead">
-              
-              <span id="typed2"></span> <!-- Or, very short sentence about what MyAbility is -->
-            
+              <span id="typed2"></span>
+              <!-- Or, very short sentence about what MyAbility is -->
             </h1>
-            
-            
-            
+
             <!-- Main header -->
             <h1 class="my-3 heroheader" data-aos="fade-up" data-aos-delay="1500" data-aos-duration="1600">
               <!-- Replace text  -->
               What MyAbility does/achieves
-            
             </h1>
 
-            
-            
             <hr data-aos="fade" data-aos-delay="2200" data-aos-duration="1000" />
 
-            
             <!-- Sub Paragraph 1  -->
             <p class="mb-xl-5 herocontent" data-aos="fade-up" data-aos-delay="1800" data-aos-duration="1200">
-              
               <!-- Replace text  -->
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-              Ut enim ad minim veniam
-              
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+
               <br />
               <br />
-              
+
               <!-- Sub Paragraph 2 -->
-              <span class="d-none d-xl-inline"> 
-                
+              <span class="d-none d-xl-inline">
                 <!-- Replace text  -->
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                
               </span>
-           
             </p>
 
             <div class="descbutton" data-aos="fade" data-aos-delay="3000" data-aos-duration="1000">
@@ -128,6 +115,37 @@
       </div>
     </div>
 
+    <section class="features-section">
+      <div class="features-text">
+        <hr class="featureshr" />
+
+        <h1 class="features-header">Something written about one type of feature</h1>
+
+        <div class="container">
+          <div class="row no-gutters">
+            
+            <div class="col-lg-6 respimg1">
+              <img src="https://via.placeholder.com/270" />
+            </div>
+
+            <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-xs-12">
+              <h1 class="features-subheader">Some words</h1>
+              <p class="features-paragraph">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+              </p>
+              <p class="features-paragraph">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit
+              </p>
+              <a href="#" class="features-a">
+                More about this aspect
+                <div class="makeshiftarrow"><strong>&#8594;</strong></div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
     <!-- JavaScript Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
@@ -137,16 +155,16 @@
     <script>
       AOS.init({
         once: true,
-        disable: 'mobile',
+        disable: "mobile",
       });
-      
+
       var typed2 = new Typed("#typed2", {
-          strings: ["NGCN 2021 Team 26 &mdash;"],
-          startDelay: 1000,
-          typeSpeed: 45,
-          cursorChar: '‎',
-          loop: false,
-        });
+        strings: ["NGCN 2021 Team 26 &mdash;"],
+        startDelay: 1000,
+        typeSpeed: 45,
+        cursorChar: "‎",
+        loop: false,
+      });
     </script>
   </body>
 </html>
