@@ -235,7 +235,7 @@ hr {
   padding-top: 2rem;
 }
 
-@media (max-width: 1366px) {
+@media (max-width: 1400px) {
   .features-text {
     margin-left: 15vw;
   }
