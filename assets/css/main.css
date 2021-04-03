@@ -230,14 +230,14 @@ hr {
 }
 
 .features-text {
-  margin-left: 20vw;
+  margin-left: 19vw;
   color: black;
   padding-top: 2rem;
 }
 
 @media (max-width: 1518px) {
   .features-text {
-    margin-left: 15vw;
+    margin-left: 16vw;
   }
 }
 
