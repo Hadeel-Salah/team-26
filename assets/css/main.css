@@ -285,7 +285,7 @@ hr {
 
 @media (max-width: 380px) {
   .features-text {
-    margin-left: 5vw;
+    margin-left: 10vw;
     margin-right: 1vw !important;
   }
   .respimg1 {
