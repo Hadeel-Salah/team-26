@@ -166,22 +166,9 @@ nav {
     height: 165vh;
   }
 }
-
-@media (max-width: 1518px) {
-  .zing {
-    margin-left: -2.5vw;
-  }
-}
-
-@media (max-width: 1400px) {
+@media (max-width: 1366px) {
   .zing {
     margin-left: -5vw;
-  }
-}
-
-@media (max-width: 1200px) {
-  .zing {
-    margin-left: 0vw;
   }
 }
 
