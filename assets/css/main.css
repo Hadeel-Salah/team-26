@@ -168,22 +168,9 @@ nav {
     height: 165vh;
   }
 }
-
-@media (max-width: 1518px) {
-  .zing {
-    margin-left: -2.5vw;
-  }
-}
-
-@media (max-width: 1400px) {
+@media (max-width: 1366px) {
   .zing {
     margin-left: -5vw;
-  }
-}
-
-@media (max-width: 1200px) {
-  .zing {
-    margin-left: 0vw;
   }
 }
 
@@ -217,7 +204,7 @@ hr {
 
 .desclink {
   padding: 10px;
-  border: 3px solid #212529;
+  border: 3px solid black;
   background: #3755be;
   transition: 0.3s;
   color: white;
@@ -225,7 +212,7 @@ hr {
 }
 
 .desclink:hover {
-  border: 3px solid #212529;
+  border: 3px solid black;
   background: #5975d9;
   text-decoration: none !important;
   color: white !important;
@@ -233,7 +220,7 @@ hr {
 
 .heroimg {
   border-radius: 10px;
-  box-shadow: rgba(233, 236, 239, 0.5) 7px 7px 0px 0px;
+   box-shadow: rgba(233, 236, 239, 0.5) 7px 7px 0px 0px;
 }
 
 .features-section {
@@ -281,6 +268,7 @@ hr {
   .features-header {
     margin-right: 10vw;
   }
+  
   .features-text {
     margin-left: 18vw;
   }
@@ -292,6 +280,7 @@ hr {
     margin-right: 1vw !important;
   }
 }
+
 @media (max-width: 576px) {
   .features-text {
     margin-left: 10vw;
@@ -347,7 +336,6 @@ hr {
   font-weight: 600;
   font-size: 1.25rem;
   color: #5975d9;
-  transition: ;
 }
 
 .features-a:hover {
