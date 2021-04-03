@@ -130,8 +130,14 @@ nav {
   position: absolute;
   top: 0;
   z-index: 150;
-  color: #212529;
+  color: black;
   padding-top: 12rem;
+}
+
+@media (max-width: 679px) {
+  .texting {
+    margin-right: 0vw !important;
+  } 
 }
 
 @media (max-width: 600px) {
