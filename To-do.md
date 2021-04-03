@@ -5,7 +5,6 @@ General:
 - [ ] Add favicon
 - [ ] Add meta descriptions
 - [ ] Replace image placeholder on home page (stock image maybe?)
-- [ ] small motion lines on corners of image placeholder (maybe)
 
 <br><br><br>
 
