@@ -124,7 +124,7 @@ nav {
 }
 
 /** Hero Text **/
-..texting {
+.texting {
   margin-left: 15vw;
   margin-right: 15vw !important;
   position: absolute;
