@@ -124,7 +124,7 @@ nav {
 }
 
 /** Hero Text **/
-.texting {
+..texting {
   margin-left: 15vw;
   margin-right: 15vw !important;
   position: absolute;
@@ -136,17 +136,18 @@ nav {
 
 @media (max-width: 679px) {
   .texting {
-    margin-right: 0vw !important;
-  } 
+  margin-right: 0vw !important;
+}
+  
 }
 
 @media (max-width: 600px) {
   .texting {
-    margin-left: 10vw;
-    margin-right: 0vw !important;
-  } 
+  margin-left: 10vw;
+  margin-right: 0vw !important;
 }
-
+  
+}
 @media (max-width: 576px) {
   .texting {
     margin-left: 5vw;
