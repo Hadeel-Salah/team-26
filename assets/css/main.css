@@ -269,6 +269,16 @@ hr {
   .features-header {
     margin-right: 10vw;
   }
+  .features-text {
+    margin-left: 18vw;
+  }
+}
+
+@media (max-width: 600px) {
+  .features-text {
+    margin-left: 14vw;
+    margin-right: 1vw !important;
+  }
 }
 
 @media (max-width: 576px) {
