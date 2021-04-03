@@ -146,6 +146,7 @@ nav {
     margin-right: 0vw !important;
   }
 }
+
 @media (max-width: 576px) {
   .texting {
     margin-left: 5vw;
