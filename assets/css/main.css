@@ -237,6 +237,12 @@ hr {
 
 @media (max-width: 1518px) {
   .features-text {
+    margin-left: 20vw;
+  }
+}
+
+@media (max-width: 1500px) {
+  .features-text {
     margin-left: 16vw;
   }
 }
