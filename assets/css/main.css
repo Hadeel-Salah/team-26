@@ -361,7 +361,7 @@ hr {
 
 .badge {
   display: inline;
-  font-size: 12px;
+  font-size: 12px !important;
   text-transform: uppercase;
   background-color: #3755be;
   color: #fff;
