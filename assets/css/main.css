@@ -96,15 +96,12 @@ nav {
   margin-right: 2.5rem;
 }
 
-.continuous-5 {  
- background: 
-     linear-gradient(#3755be 0 0) 
-     var(--d, 201%) 100% /200% 3px 
-     no-repeat;
+.continuous-5 {
+  background: linear-gradient(#3755be 0 0) var(--d, 201%) 100% /200% 3px no-repeat;
 }
 
 .continuous-5:hover {
-   --d: -101%;
+  --d: -101%;
   transition: 0.5s;
 }
 
@@ -182,6 +179,7 @@ nav {
     height: 165vh;
   }
 }
+
 @media (max-width: 1366px) {
   .zing {
     margin-left: -5vw;
