@@ -235,6 +235,7 @@ hr {
   box-shadow: rgba(233, 236, 239, 0.5) 7px 7px 0px 0px;
 }
 
+/** Features Section **/
 .features-section {
   position: relative;
   background: #fff !important;
@@ -338,6 +339,17 @@ hr {
   letter-spacing: -1px;
 }
 
+.badge {
+  display: inline;
+  font-size: 12px !important;
+  text-transform: uppercase;
+  background-color: #3755be;
+  color: #fff;
+  vertical-align: middle;
+  letter-spacing: 0.17px;
+  margin-left: 15px;
+}
+
 .features-subheader {
   font-weight: 600;
   margin-bottom: 1rem;
@@ -370,15 +382,4 @@ hr {
 
 .features-a:hover .makeshiftarrow {
   padding-left: 8px !important;
-}
-
-.badge {
-  display: inline;
-  font-size: 12px !important;
-  text-transform: uppercase;
-  background-color: #3755be;
-  color: #fff;
-  vertical-align: middle;
-  letter-spacing: 0.17px;
-  margin-left: 15px;
 }
