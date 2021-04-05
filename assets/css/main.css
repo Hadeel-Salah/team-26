@@ -84,13 +84,28 @@ nav {
   position: relative;
   transition: 0.5s ease;
   cursor: pointer;
-  padding-left: 2.5rem !important;
 }
 
 @media (max-width: 992px) {
   .nav-item .nav-link {
     padding-left: 1rem !important;
   }
+}
+
+.navspacing {
+  margin-right: 2.5rem;
+}
+
+.continuous-5 {  
+ background: 
+     linear-gradient(#3755be 0 0) 
+     var(--d, 201%) 100% /200% 3px 
+     no-repeat;
+}
+
+.continuous-5:hover {
+   --d: -101%;
+  transition: 0.5s;
 }
 
 /** Kewl sliding background **/
