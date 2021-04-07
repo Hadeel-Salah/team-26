@@ -11,3 +11,4 @@ General:
 Future Fixes:
 - [ ] Modifying animation timing possibly for user flow
 - [ ] Likely going to remove/reduce homepage animation(s) for less motion (TBD)
+- [ ] Replace navlink animation maybe
