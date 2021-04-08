@@ -58,7 +58,7 @@ nav {
 .navbar-light .nav-item .nav-link:focus,
 .navbar-light .nav-item.active .nav-link,
 .navbar-light .nav-item:hover .nav-link {
-  color: #212529;
+  color: #3755be;
 }
 
 .fa-smile {
@@ -96,14 +96,6 @@ nav {
   margin-right: 2.5rem;
 }
 
-.continuous-5 {
-  background: linear-gradient(#3755be 0 0) var(--d, 201%) 100% /200% 3px no-repeat;
-}
-
-.continuous-5:hover {
-  --d: -101%;
-  transition: 0.5s;
-}
 
 /** Kewl sliding background **/
 .homeleft {
