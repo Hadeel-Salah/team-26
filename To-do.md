@@ -5,7 +5,7 @@ General:
 - [ ] Add favicon
 - [ ] Add meta descriptions
 - [ ] Replace image placeholder on home page (stock image maybe?)
-
+- [ ] **Need** to make AOS animations for hero section run auto. (Replace JS with CSS)
 <br><br><br>
 
 Future Fixes:
