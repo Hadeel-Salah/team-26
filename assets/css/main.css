@@ -40,6 +40,10 @@ body {
   color: #fff !important;
 }
 
+img::selection {
+  background: transparent !important;
+}
+
 /** Navigation bar **/
 nav {
   position: relative;
