@@ -52,7 +52,6 @@
           <div class="container">
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav ml-auto">
-                
                 <!-- TBD -->
                 <span class="continuous-5">
                   <li class="nav-item">
@@ -61,14 +60,13 @@
                 </span>
 
                 <div class="navspacing"></div>
-                
+
                 <!-- TBD -->
                 <span class="continuous-5">
                   <li class="nav-item">
                     <a class="nav-link" href="https://hadeelsala7.github.io/team-26/standby/">Navlink2</a>
                   </li>
                 </span>
-                
               </ul>
             </div>
           </div>
@@ -160,9 +158,11 @@
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js"></script>
     <script>
-      AOS.init({
-        once: true,
-        disable: "mobile",
+      window.addEventListener("load", function () {
+        AOS.init({
+          once: true,
+          disable: "mobile",
+        });
       });
 
       var typed2 = new Typed("#typed2", {
