@@ -15,7 +15,6 @@ html {
   overflow-x: hidden !important;
   scroll-behavior: smooth;
   text-rendering: optimizeLegibility;
-  box-sizing: border-box;
 }
 
 body {
