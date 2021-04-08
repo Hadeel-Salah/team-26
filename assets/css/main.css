@@ -58,7 +58,7 @@ nav {
 .navbar-light .nav-item .nav-link:focus,
 .navbar-light .nav-item.active .nav-link,
 .navbar-light .nav-item:hover .nav-link {
-  color: #3755be;
+  color: #3755be !important;
 }
 
 .fa-smile {
