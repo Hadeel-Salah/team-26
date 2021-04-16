@@ -50,7 +50,10 @@ NGCN Team-26's website repository
 
 <br><br> <!-- Just line breaks -->
 
-<!-- (Not needed?)
-Nathaneal and Toba's skills:
-- Web development
--->
+**The About page will contain:**
+
+1) Navigation bar at top 
+
+2) Description of NGCN, and how the project relates to NGCN etc.
+
+<br><br> <!-- Just line breaks -->
