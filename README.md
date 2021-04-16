@@ -27,6 +27,7 @@ NGCN Team-26's website repository
 
 **Number of the pages:** 3
 > Home, About, Resources
+
 <br><br> <!-- Just line breaks -->
 
 ## Plan ✏️
