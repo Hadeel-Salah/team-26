@@ -10,7 +10,7 @@ General:
 <br><br><br>
 
 Future Fixes:
-- [ ] Modifying animation timing possibly for user flow
+- [ ] Replace AOS with actual CSS animations
 - [ ] Likely going to remove/reduce homepage animation(s) for less motion (TBD)
 - [ ] Replace navlink animation maybe
 > Likely change navlink hover to blue
