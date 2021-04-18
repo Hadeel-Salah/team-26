@@ -6,6 +6,7 @@ General:
 - [ ] Add meta descriptions
 - [ ] Replace image placeholder on home page (stock image maybe?)
 - [ ] Link "Get started button" to resources page?
+- [ ] Make sure the second paragraph shows on mobile! (Change d-none on the paragraph class)
 
 <br><br><br>
 
