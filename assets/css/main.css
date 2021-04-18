@@ -202,6 +202,12 @@ nav {
   font-size: 1.06rem;
 }
 
+@media (max-width: 576px) {
+  .herocontent {
+    padding-bottom: 2.75rem;
+  } 
+}
+
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
