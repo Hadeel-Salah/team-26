@@ -1,7 +1,6 @@
 ### To-do List
 
 General:
-- [ ] Decide on additional pages
 - [ ] Replace image placeholder on home page (stock image maybe?)
 
 <br><br><br>
