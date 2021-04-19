@@ -2,7 +2,6 @@
 
 General:
 - [ ] Decide on additional pages
-- [ ] Add favicon (smiley)
 - [ ] Add meta descriptions
 - [ ] Replace image placeholder on home page (stock image maybe?)
 - [ ] Link "Get started button" to resources page?
