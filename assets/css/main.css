@@ -386,3 +386,37 @@ hr {
 .features-a:hover .makeshiftarrow {
   padding-left: 8px !important;
 }
+
+/** Row of cards and icons **/
+i {
+  color: #3755be;
+  font-size: 2.5rem;
+}
+
+.cardsection { 
+  margin-right: 10rem;
+}
+
+@media (max-width: 576px) {
+ .cardsection { 
+    margin-right: 5rem;
+  }
+}
+
+.card-title {
+  color: #000 !important;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+}
+
+.card-text {
+  font-weight: 400;
+  color: #000 !important;
+}
+
+.card {
+  background-color: transparent !important;
+  border: none !important;
+  padding-left: 0;
+}
