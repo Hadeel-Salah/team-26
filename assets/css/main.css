@@ -420,3 +420,13 @@ i {
   border: none !important;
   padding-left: 0;
 }
+
+.circle-icon {
+    background: #f2f4fa;
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px;
+}
