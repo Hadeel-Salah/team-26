@@ -21,11 +21,11 @@ body {
   overflow-x: hidden !important;
   margin: 0;
   font-family: "Karla", sans-serif !important;
+  background: #f2f4fa;
 }
 
 @media (max-width: 768px) {
   body {
-    background-color: #f2f4fa !important;
     overflow-x: hidden !important;
   }
 }
@@ -38,10 +38,6 @@ body {
 ::-moz-selection {
   background: #3755be !important;
   color: #fff !important;
-}
-
-img::selection {
-  background: transparent !important;
 }
 
 /** Navigation bar **/
