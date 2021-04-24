@@ -1,1 +1,114 @@
+/*** General configurations ***/
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  overflow-x: hidden !important;
+  margin: 0;
+  font-family: "Karla", sans-serif !important;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-color: #f2f4fa !important;
+    overflow-x: hidden !important;
+  }
+}
+
+::selection {
+  background: #3755be !important;
+  color: #fff !important;
+}
+
+::-moz-selection {
+  background: #3755be !important;
+  color: #fff !important;
+}
+
+img::selection {
+  background: transparent !important;
+}
+
+/** Navigation bar **/
+nav {
+  position: relative;
+  z-index: 1000;
+}
+
+.nav-menu-top {
+  margin-top: 1.25rem !important;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+}
+
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item:hover .nav-link {
+  color: #3755be !important;
+}
+
+.fa-smile {
+  color: #3755be;
+  font-size: 1.5rem;
+  padding-right: 0.2rem;
+}
+
+.navtitle {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.9px;
+  font-size: 1.5rem !important;
+}
+
+.navbar-brand {
+  font-size: 1.5rem !important;
+}
+
+.nav-item .nav-link {
+  font-weight: 600;
+  font-size: 1.125rem !important;
+  background-color: transparent;
+  position: relative;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+
+@media (max-width: 992px) {
+  .nav-item .nav-link {
+    padding-left: 1rem !important;
+  }
+}
+
+.navspacing {
+  margin-right: 2.5rem;
+}
+
+.continuous-5 {  
+ background: 
+     linear-gradient(#3755be 0 0) 
+     var(--d, 201%) 100% /200% 3px 
+     no-repeat;
+}
+
+.continuous-5:hover {
+   --d: -101%;
+  transition: 0.5s
+}
 
