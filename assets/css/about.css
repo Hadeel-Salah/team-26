@@ -100,24 +100,19 @@ nav {
   margin-right: 2.5rem;
 }
 
-.continuous-5 {  
- background: 
-     linear-gradient(#3755be 0 0) 
-     var(--d, 201%) 100% /200% 3px 
-     no-repeat;
+.continuous-5 {
+  background: linear-gradient(#3755be 0 0) var(--d, 201%) 100% /200% 3px no-repeat;
 }
 
 .continuous-5:hover {
-   --d: -101%;
-  transition: 0.5s
+  --d: -101%;
+  transition: 0.5s;
 }
 
-
-
+/** Content **/
 .main {
-    width: 60%;
-    margin: 6rem auto 4rem auto;
-
+  width: 60%;
+  margin: 6rem auto 4rem auto;
 }
 
 @media (max-width: 592px) {
@@ -128,47 +123,41 @@ nav {
 }
 
 .desc {
-    max-width: 50%;
+  max-width: 50%;
 }
 
 .topbar {
-    text-transform: uppercase;
-    margin-bottom: 2rem;
-    font-weight: 600;
-    letter-spacing: .1em;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
 }
 
-a, a:hover {
-  text-decoration: none; 
+a,
+a:hover {
+  text-decoration: none !important;
 }
-
-
 
 .bazinga {
-    font-weight: 600;
-    background-image:
-        linear-gradient(
-            to bottom, #919191 0%,
-            #919191 100%
-        );
-    background-position: 0 100%;
-    background-repeat: repeat-x;
-    background-size: 4px 4px;
-    text-decoration: none;
-    color: black;
-    transition: background-size .2s, color .2s;
-    width: auto;
+  font-weight: 600;
+  background-image: linear-gradient(to bottom, #919191 0%, #919191 100%);
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 4px 4px;
+  text-decoration: none;
+  color: black;
+  transition: background-size 0.2s, color 0.2s;
+  width: auto;
 }
 
 .bazinga:hover {
-    color: #3755be;
-    background-size: 4px 50px;
+  color: #3755be;
+  background-size: 4px 50px;
 }
 
 .smalla {
-    background-size: 2px 2px;
+  background-size: 2px 2px;
 }
-
 
 .abouth {
   font-weight: 800;
