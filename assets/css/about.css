@@ -21,7 +21,7 @@ body {
   overflow-x: hidden !important;
   margin: 0;
   font-family: "Karla", sans-serif !important;
-  background: #f2f4fa;
+  background-color: #f2f4fa !important;
 }
 
 @media (max-width: 768px) {
@@ -40,10 +40,14 @@ body {
   color: #fff !important;
 }
 
+img::selection {
+  background: transparent !important;
+}
+
 /** Navigation bar **/
 nav {
   position: relative;
-  z-index: 1000;
+  z-index: 1000 !important;
 }
 
 .nav-menu-top {
@@ -108,3 +112,70 @@ nav {
   transition: 0.5s
 }
 
+
+
+.main {
+    width: 60%;
+    margin: 6rem auto 4rem auto;
+
+}
+
+@media (max-width: 592px) {
+  .main {
+    width: auto;
+    margin: 6rem 4rem auto 4rem !important;
+  }
+}
+
+.desc {
+    max-width: 50%;
+}
+
+.topbar {
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    font-weight: 600;
+    letter-spacing: .1em;
+}
+
+a, a:hover {
+  text-decoration: none; 
+}
+
+
+
+.bazinga {
+    font-weight: 600;
+    background-image:
+        linear-gradient(
+            to bottom, #919191 0%,
+            #919191 100%
+        );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 4px;
+    text-decoration: none;
+    color: black;
+    transition: background-size .2s, color .2s;
+    width: auto;
+}
+
+.bazinga:hover {
+    color: #3755be;
+    background-size: 4px 50px;
+}
+
+.smalla {
+    background-size: 2px 2px;
+}
+
+
+.abouth {
+  font-weight: 800;
+  padding-bottom: 2rem;
+}
+
+p {
+  margin-bottom: 2rem;
+  font-size: 1.125rem;
+}
