@@ -3,6 +3,8 @@
 General:
 - [ ] Replace image placeholder on home page (stock image maybe?)
 - [ ] make resources page responsive
+- [ ] make resources an "a" tag
+
 
 <br><br><br>
 
