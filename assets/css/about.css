@@ -149,24 +149,20 @@ a:hover {
 }
 
 .bazinga {
-    font-weight: 600;
-    background-image:
-        linear-gradient(
-            to bottom, #3755be 0%,
-            #3755be 100%
-        );
-    background-position: 0 100%;
-    background-repeat: repeat-x;
-    background-size: 4px 4px;
-    text-decoration: none;
-    color: black;
-    transition: background-size .2s, color .2s;
-    width: auto;
+  font-weight: 600;
+  background-image: linear-gradient(to bottom, #3755be 0%, #3755be 100%);
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 4px 4px;
+  text-decoration: none;
+  color: black;
+  transition: background-size 0.2s, color 0.2s;
+  width: auto;
 }
 
 .bazinga:hover {
-    color: #fff;
-    background-size: 4px 50px;
+  color: #fff;
+  background-size: 4px 50px;
 }
 
 .smalla {
