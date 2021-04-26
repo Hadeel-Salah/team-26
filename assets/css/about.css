@@ -133,7 +133,7 @@ nav {
 @media (max-width: 592px) {
   .main {
     width: auto;
-    margin: 6rem 4rem auto 4rem !important;
+    margin: 6rem 4rem 4rem 3rem !important;
   }
 }
 
