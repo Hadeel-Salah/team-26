@@ -443,3 +443,44 @@ i {
     vertical-align: middle;
     padding: 12px;
 }
+
+.css-13iaolj {
+  border-radius: 1rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25); 
+  transform: perspective(240px) rotateX(9.99994deg) rotateY(15deg) scale(1); 
+}
+
+
+.imgtwo {
+  width: 300px;
+  height: 240px; 
+} 
+
+.livepreview { 
+  margin: 5rem auto 10rem 25rem;
+}
+
+@media (max-width: 1300px) {
+  .livepreview { 
+    margin: 5rem auto 10rem 15rem;
+  }
+}
+
+
+@media (max-width: 1200px) {
+  .livepreview { 
+    margin: 5rem auto 10rem 10rem;
+  }
+}
+
+.endingp {
+  margin-bottom: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.startlink {
+  font-size: 2.5rem;
+  color: #3755be;
+}
