@@ -181,3 +181,21 @@ p {
 html.is-animating .transition-fade {
   opacity: 0;
 }
+
+.features-a {
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: #5975d9;
+}
+
+.features-a:hover {
+  text-decoration: none;
+  color: #5975d9;
+}
+
+.makeshiftarrow {
+  font-size: 1.65rem;
+  display: inline;
+  padding-left: 2px;
+  transition: 0.25s ease;
+}
