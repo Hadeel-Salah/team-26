@@ -44,6 +44,16 @@ img::selection {
   background: transparent !important;
 }
 
+/** Transition **/
+.transition-fade {
+  transition: 0.4s;
+  opacity: 1;
+}
+
+html.is-animating .transition-fade {
+  opacity: 0;
+}
+
 /** Navigation bar **/
 nav {
   position: relative;
@@ -173,22 +183,13 @@ p {
   font-size: 1.125rem;
 }
 
-.transition-fade {
-  transition: 0.4s;
-  opacity: 1;
-}
-
-html.is-animating .transition-fade {
-  opacity: 0;
-}
-
-.features-a {
+.next-a {
   font-weight: 600;
   font-size: 1.25rem;
   color: #5975d9;
 }
 
-.features-a:hover {
+.next-a:hover {
   text-decoration: none;
   color: #5975d9;
 }
