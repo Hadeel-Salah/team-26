@@ -126,6 +126,7 @@ nav {
 /** Content **/
 .main {
   width: 60%;
+  word-wrap: break-word;
   margin: 6rem auto 4rem auto;
 }
 
