@@ -100,19 +100,14 @@ nav {
   margin-right: 2.5rem;
 }
 
-.continuous-5 {  
- background: 
-     linear-gradient(#3755be 0 0) 
-     var(--d, 201%) 100% /200% 3px 
-     no-repeat;
+.continuous-5 {
+  background: linear-gradient(#3755be 0 0) var(--d, 201%) 100% /200% 3px no-repeat;
 }
-
 
 .continuous-5:hover {
-   --d: -101%;
-  transition: 0.5s
+  --d: -101%;
+  transition: 0.5s;
 }
-
 
 /** Kewl sliding background **/
 .homeleft {
@@ -218,7 +213,7 @@ nav {
 @media (max-width: 576px) {
   .herocontent {
     padding-bottom: 2.75rem;
-  } 
+  }
 }
 
 hr {
@@ -355,8 +350,6 @@ hr {
   letter-spacing: -1px;
 }
 
-
-
 .features-a {
   font-weight: 600;
   font-size: 1.25rem;
@@ -385,12 +378,12 @@ i {
   font-size: 2.5rem;
 }
 
-.cardsection { 
+.cardsection {
   margin-right: 10rem;
 }
 
 @media (max-width: 576px) {
- .cardsection { 
+  .cardsection {
     margin-right: 5rem;
   }
 }
@@ -414,38 +407,38 @@ i {
 }
 
 .circle-icon {
-    background: #f2f4fa;
-    width: auto;
-    height: auto;
-    border-radius: 50%;
-    text-align: center;
-    vertical-align: middle;
-    padding: 12px;
+  background: #f2f4fa;
+  width: auto;
+  height: auto;
+  border-radius: 50%;
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px;
 }
 
 .css-13iaolj {
   border-radius: 1rem;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25); 
-  transform: perspective(240px) rotateX(9.99994deg) rotateY(15deg) scale(1); 
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  transform: perspective(240px) rotateX(9.99994deg) rotateY(15deg) scale(1);
 }
 
 .imgtwo {
   width: 300px;
-  height: 240px; 
-} 
+  height: 240px;
+}
 
-.livepreview { 
+.livepreview {
   margin: 5rem auto 10rem 25rem;
 }
 
 @media (max-width: 1300px) {
-  .livepreview { 
+  .livepreview {
     margin: 5rem auto 10rem 15rem;
   }
 }
 
 @media (max-width: 1200px) {
-  .livepreview { 
+  .livepreview {
     margin: 5rem auto 10rem 10rem;
   }
 }
@@ -468,29 +461,27 @@ i {
   color: inherit;
   padding: 0;
   background: none;
-  background-image: linear-gradient(120deg, rgba(
-55, 85, 190, 0.4) 0%, rgba(
-55, 85, 190, 0.4) 100%);
+  background-image: linear-gradient(120deg, rgba(55, 85, 190, 0.4) 0%, rgba(55, 85, 190, 0.4) 100%);
   background-repeat: no-repeat;
   background-position: 0 100%;
-  background-size: 0% .3em;
+  background-size: 0% 0.3em;
   position: relative;
-} 
+}
 
 @keyframes animateMark {
   0% {
-    background-size: 0% .3em;
+    background-size: 0% 0.3em;
   }
   100% {
-    background-size: 100% .25em; 
-  } 
+    background-size: 100% 0.25em;
+  }
 }
 
 [data-aos="secondmark"].aos-animate {
   animation: animateMark 1s;
-  animation-fill-mode: forwards;  
-  animation-delay: .5s;
-} 
+  animation-fill-mode: forwards;
+  animation-delay: 0.5s;
+}
 
 /** Other **/
 .badge {
