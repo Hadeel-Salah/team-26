@@ -355,28 +355,7 @@ hr {
   letter-spacing: -1px;
 }
 
-.badge {
-  display: inline;
-  font-size: 12px !important;
-  text-transform: uppercase;
-  background-color: #3755be;
-  color: #fff;
-  vertical-align: middle;
-  letter-spacing: 0.17px;
-  margin-left: 15px;
-}
 
-.features-subheader {
-  font-weight: 600;
-  margin-bottom: 1rem;
-  letter-spacing: -1px;
-}
-
-.features-paragraph {
-  color: #696969;
-  font-size: 1.05rem;
-  line-height: 1.65rem;
-}
 
 .features-a {
   font-weight: 600;
@@ -471,6 +450,7 @@ i {
   }
 }
 
+/**Last Link **/
 .endingp {
   margin-bottom: 5rem;
   display: flex;
@@ -483,7 +463,7 @@ i {
   color: #3755be;
 }
 
-/** Mark **/
+/** Underline Animation **/
 [data-aos="secondmark"] {
   color: inherit;
   padding: 0;
@@ -499,10 +479,9 @@ i {
 
 @keyframes animateMark {
   0% {
-     background-size: 0% .3em;
+    background-size: 0% .3em;
   }
   100% {
-
     background-size: 100% .25em; 
   } 
 }
@@ -513,3 +492,14 @@ i {
   animation-delay: .5s;
 } 
 
+/** Other **/
+.badge {
+  display: inline;
+  font-size: 12px !important;
+  text-transform: uppercase;
+  background-color: #3755be;
+  color: #fff;
+  vertical-align: middle;
+  letter-spacing: 0.17px;
+  margin-left: 15px;
+}
