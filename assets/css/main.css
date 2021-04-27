@@ -450,7 +450,6 @@ i {
   transform: perspective(240px) rotateX(9.99994deg) rotateY(15deg) scale(1); 
 }
 
-
 .imgtwo {
   width: 300px;
   height: 240px; 
@@ -465,7 +464,6 @@ i {
     margin: 5rem auto 10rem 15rem;
   }
 }
-
 
 @media (max-width: 1200px) {
   .livepreview { 
@@ -484,3 +482,34 @@ i {
   font-size: 2.5rem;
   color: #3755be;
 }
+
+/** Mark **/
+[data-aos="secondmark"] {
+  color: inherit;
+  padding: 0;
+  background: none;
+  background-image: linear-gradient(120deg, rgba(
+55, 85, 190, 0.4) 0%, rgba(
+55, 85, 190, 0.4) 100%);
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 0% .3em;
+  position: relative;
+} 
+
+@keyframes animateMark {
+  0% {
+     background-size: 0% .3em;
+  }
+  100% {
+
+    background-size: 100% .25em; 
+  } 
+}
+
+[data-aos="secondmark"].aos-animate {
+  animation: animateMark 1s;
+  animation-fill-mode: forwards;  
+  animation-delay: .5s;
+} 
+
