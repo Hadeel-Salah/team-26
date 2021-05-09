@@ -2,7 +2,7 @@
 
 General:
 - [ ] Replace image placeholder on home page (stock image maybe?)
-
+- [ ] Will replace homepage text soon to finish up
 
 
 <br><br><br>
