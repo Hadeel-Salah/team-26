@@ -5,7 +5,7 @@ General:
 - [ ] Will replace homepage text soon to finish up
 
 
-<br><br><br>
+<br>
 
 ### Bugs 2 Fix:
 - [ ] Replace AOS with actual CSS animations
