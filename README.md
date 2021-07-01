@@ -28,7 +28,7 @@ NGCN Team-26's website repository
 **Number of the pages:** 3
 > Home, About, Resources
 
-<br><br> <!-- Just line breaks -->
+<br><br>
 
 ## Plan ✏️
 
@@ -48,7 +48,7 @@ NGCN Team-26's website repository
 
 4) Contact section (maybe) 
 
-<br><br> <!-- Just line breaks -->
+<br><br> 
 
 **The About page will contain:**
 
@@ -58,4 +58,4 @@ NGCN Team-26's website repository
 
 3) (TBD) Link presentation and stuff?
 
-<br><br> <!-- Just line breaks -->
+<br><br>
